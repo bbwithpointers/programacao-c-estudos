@@ -1,0 +1,3 @@
+/home/eletrobruno/CLionProjects/estudosprogc/cmake-build-debug/CMakeFiles/estudosprogc.dir
+/home/eletrobruno/CLionProjects/estudosprogc/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/eletrobruno/CLionProjects/estudosprogc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
